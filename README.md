@@ -1,2 +1,3 @@
 # Control-Network
-Control your networks incoming traffic
+Goal: Understand how to use if statements and while commands. 
+You need to control the number of people who can be in your companies network. Groups of people can always leave the network, but a group cannot enter the network if they would make the number of people in the network exceed the maximum of 100 occupants. Write a program that reads the sizes of the groups that arrive or depart. Use negative numbers for departures. After each input, display the current number of occupants. As soon as the bar holds the maximum number of people, report that the network is full and exit the program.
